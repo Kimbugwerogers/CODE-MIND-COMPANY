@@ -1,0 +1,2 @@
+# CODE-MIND-COMPANY
+Number 0ne 
