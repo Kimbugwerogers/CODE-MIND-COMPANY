@@ -1,2 +1,2 @@
 # CODE-MIND-COMPANY
-Number 0ne 
+Number 0ne tech solutions
