@@ -1,0 +1,34 @@
+*{
+    font-family: arial;
+}
+.team{
+
+    font-family: arial;
+}
+.text{
+    color: gold;
+}
+.container{
+    display: flex;
+    column-gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.img-box{
+    width: 280px;
+    margin: 15px 0px;
+}
+.img-box strong{
+    color: gold;
+}
+body{
+    background-color:blue;
+}
+h1{
+    color: cyan;
+}
+h2{
+    color: cyan;
+}
